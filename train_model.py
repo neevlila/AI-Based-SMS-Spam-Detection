@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('spam_balanced.csv', encoding='latin-1')
+df = pd.read_csv('spam.csv', encoding='latin-1')
 
 df = df[['text', 'label']]
 

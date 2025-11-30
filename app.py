@@ -17,6 +17,7 @@ def clean_text(text):
     return text
 
 st.title("📩 AI-Based SMS Spam Detector")
+st.write("Created by Neev Lila, Harsh Parekh, Meet Gajjar, Dhairya Kamdar, Mitanshu Chauhan.")
 
 message = st.text_area("Enter a message:", height=150)
 

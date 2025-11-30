@@ -16,6 +16,8 @@ def clean_text(text):
     text = re.sub(r'\d+', '', text)
     return text
 
+st.title("📩 SMS Spam Detector")
+
 message = st.text_area("Enter a message:", height=150)
 
 if st.button("Predict"):

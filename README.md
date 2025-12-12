@@ -111,4 +111,9 @@ Machine Learning: Scikit-learn, Joblib
 Visualization: Matplotlib, Seaborn
 
 👥 Contributors
-<table> <tr> <td align="center"><strong>Neev Lila</strong></td> <td align="center"><strong>Harsh Parekh</strong></td> <td align="center"><strong>Meet Gajjar</strong></td> <td align="center"><strong>Dhairya Kamdar</strong></td> <td align="center"><strong>Mitanshu Chauhan</strong></td> </tr> </table>
+
+Neev Lila
+Harsh Parekh
+Meet Gajjar
+Dhairya Kamdar
+Mitanshu Chauhan
